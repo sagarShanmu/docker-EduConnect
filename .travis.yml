@@ -20,4 +20,4 @@ deploy:
   bucket_name: "elasticbeanstalk-us-east-1-003716801716"
   bucket_path: "Docker-Edu-Test"
   on:
-    all_branches: true
+    branch: main
